@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - add-announcement-banner
+      - copilot/*
 
 permissions:
   contents: read
